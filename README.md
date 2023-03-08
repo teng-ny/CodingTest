@@ -9,7 +9,7 @@
 |3 |[Programmers (Python)_100문제(22.11.27 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level0) |   
 <br>
 
-*<핵심요약>*  
+*<핵심요약>*    
 
     SELECT 그룹해보고싶은 컬럼, SUM(컬럼1), AVG(컬럼2)    
     FROM  
