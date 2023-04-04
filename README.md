@@ -1,7 +1,7 @@
 ## 💻 CodingTest
 
 *<나의 풀이>*  
-|No |유형 |
+|No |유형 |  
 |:---:|:-------------------:|  
 |1 |[HackerRank (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/HackerRank) |
 |2 |[LeetCode (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/LeetCode) |
