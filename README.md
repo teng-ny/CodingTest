@@ -8,7 +8,19 @@
 |3 |[Programmers (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/Programmers) |  
 |4 |[Programmers (Python)_100문제(22.11.27 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level0) |  
 |5 |[Programmers (Python)_level1(23.04.10 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level1) |
-<br>  
+<br>   
+
+<details>
+<summary>알고리즘 점령하기</summary>
+<div markdown="1">
+
+|Week| 월요일 | 화요일 | 수요일 | 목요일 | 금요일 |
+|:--:|:-:|:-:|:-:|:-:|:-:|
+|1 |[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931), [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |
+
+</div>
+</details>
+
 
 *<핵심요약>*    
 
