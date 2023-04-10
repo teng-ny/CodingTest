@@ -18,7 +18,7 @@
     
 |Week| 월요일 | 화요일 | 수요일 | 목요일 | 금요일 |
 |:--:|:-:|:-:|:-:|:-:|:-:|
-|1 |[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931), [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |
+|1 |[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), <br> [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), <br> [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931), <br> [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |
 
 </div>
 </details>
