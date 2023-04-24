@@ -11,7 +11,7 @@
 <br>   
 
 <details>
-<summary>🥨알고리즘 점령하기</summary>
+<summary>🥨알고리즘</summary>
 <div markdown="1">
 
 <br>  
@@ -20,6 +20,7 @@
 |:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1 |[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937), <br> [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), <br> [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | | | | | | |
 |2 |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931), <br> [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |[나머지가 1이되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389), <br> [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916), <br> [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | | |[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934), <br> [정수 내림차순으로 배치](https://school.programmers.co.kr/learn/courses/30/lessons/12933), <br> [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) |[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947), <br> [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) |[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943), <br> [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) |
+|3 | | | | | | | |
 
 </div>
 </details>
