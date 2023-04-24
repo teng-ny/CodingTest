@@ -3,7 +3,7 @@
 *<나의 풀이>*  
 |No |유형 |  
 |:---:|:-------------------:|  
-|1 |[HackerRank (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/HackerRank) |
+|1 |[HackerRank (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/HackerRank) |  
 |2 |[LeetCode (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/LeetCode) |
 |3 |[Programmers (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/Programmers) |  
 |4 |[Programmers (Python)_level0 (22.11.27 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level0) |  
