@@ -7,7 +7,7 @@
 |2 |[LeetCode (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/LeetCode) |
 |3 |[Programmers (MySQL)](https://github.com/teng-ny/CodingTest/tree/main/MySQL/Programmers) |  
 |4 |[Programmers (Python)_level0 (22.11.27 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level0) |  
-|5 |[Programmers (Python)_level1 (23.04.10 start)](https://github.com/teng-ny/CodingTest/tree/main/Programmers/level1) |
+|5 |[Programmers (Python)_level1 (23.04.10 start)](https://github.com/teng-ny/CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1) |
 <br>   
 
 <details>
