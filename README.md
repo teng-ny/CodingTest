@@ -1,4 +1,4 @@
-## 💻 CodingTest
+## 💻 CodingTest  
 
 *<나의 풀이>*  
 |No |유형 |  
