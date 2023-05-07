@@ -11,7 +11,7 @@
 <br>   
 
 <details>
-<summary>🥨알고리즘</summary>
+<summary>🥨알고리즘</summary>  
 <div markdown="1">  
 
 <br>  
